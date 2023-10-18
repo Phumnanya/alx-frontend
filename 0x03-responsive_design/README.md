@@ -31,5 +31,7 @@ Read or watch:
 9. Improve the "Footer" section
 10. Fix the top header background
 11. Make the article page responsive
+
+    
 Author
 Eustace Mbanefo - Phumnanya
